@@ -1,0 +1,11 @@
+{
+
+	"currency": "KČ",
+	
+	"step": "krok",
+	"redirect_action": "Přechod na stránku ",
+	"status": {
+		"on": "ZAPNUTO",
+		"off": "VYPNUTO"
+	}
+}

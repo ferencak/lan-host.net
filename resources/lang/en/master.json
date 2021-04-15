@@ -1,0 +1,41 @@
+{
+  "app_name": "Lan-Host.net",
+  "copyright": "%1 Copyright 2015-%2 %3",
+  "top_menu": {
+    "link_login": "Log-in",
+    "link_register": "Registration"
+  },
+  "menu": {
+    "link_homepage": "Home page",
+    "link_products": {
+      "title": "Products",
+      "error_empty_services": ".. služby nenalezeny ..",
+      "products_dropdown": {
+        "products_game": "Herní služby",
+        "products_voice": "Komunikativní služby",
+        "products_other": "Ostatní služby"
+      }
+    },
+    "link_about_us": {
+      "title": "About us",
+      "about_us_dropdown": {
+        "about_us_company": "Our company", 
+        "about_us_vop": "TOS"
+      }
+    }, 
+    "link_contact": "Contact", 
+    "link_support": "Support",
+    "link_admin_section": "Administration section", 
+    "link_client_section": "Client section", 
+    "link_logout": "Log-out"
+  },
+  "about_us": {
+    "prologue": "Our company was born in 2015, when we tried to have success by hosting games.",
+    "link_read_more": "Read more"
+  }, 
+  "important_links": "Important links", 
+  "blog": {
+    "title": "Blog",
+    "description": "Important informations about hosting"
+  }
+}

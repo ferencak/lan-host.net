@@ -1,0 +1,31 @@
+{
+	"page_name": "'Hlavní stránka'",
+	"panel": {
+		"content": {
+			"section_legend": {
+				"title": "Stručná legenda", 
+				"content": {
+					"label_add": "PŘIDAT", 
+					"label_remove": "ODSTRANIT", 
+					"label_search": "HLEDAT", 
+					"label_info": "INFORMACE", 
+					"label_start": "SPUSTIT", 
+					"label_stop": "VYPNOUT", 
+					"label_restart": "RESTARTOVAT"
+				}
+			}, 
+			"section_info": {
+				"title": "Důležité upozornění", 
+				"content": {
+					"table": {
+						"date": "Datum zveřejnění", 
+						"title": "Nadpis", 
+						"action": "Akce"
+					}
+				}, 
+				"stable_version": "Aktuální verze", 
+				"last_revision": "Poslední revize"
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"page_name": "'Administrativní sekce'",
+	"sidemenu": {
+		"user_section": "Uživatelská sekce",
+		"basic_info": "Základní informace",
+		"support": "Podpora",
+		"services": "Služby",
+		"users": "Uživatelé",
+		"transactions": "Transakce",
+		"comments": "Poznámky",
+		"blog": "Blog",
+		"hosting_settings": "Nastavení hostingu"
+	},
+	"support": {
+		"page_name": "'Administrace - Podpora'",
+		"title": "Administrativní ticketová sekce",
+		"support_solve": {
+			"page_name": "Administrace - Řešení ticketu #"
+		}
+	}
+}

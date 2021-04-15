@@ -1,0 +1,36 @@
+{
+	"title": "Přihlásení se do účtu",
+	"panel": {
+		"title": "Přihlašte se do Vašeho účtu",
+		"title-verify": "Ověření přes email.",
+		"title-2fa": "Dvoufázové ověření",
+		"content": {
+			"form": {
+				"client_email": {
+					"title": "Emailová adresa", 
+					"placeholder": "Zadejte emailovou adresu..."
+				}, 
+				"client_password": {
+					"title": "Uživatelské heslo", 
+					"placeholder": "Zadejte heslo Vašeho účtu..." 
+				}, 
+				"verification": {
+					"code": "Kod"
+				}, 
+				"button_submit": "Přihlásit se"
+			},
+			"footer": {
+				"link_register": "Vytvořit nový účet", 
+				"password_reset": {
+					"title": "Nepamatujete si své heslo?", 
+					"link_password_reset": "Obnovit heslo"
+				}, 
+				"wrong_form": {
+					"title": "Formulář byl chybný a uložen pro opravu.", 
+					"link_destroy": "» Odstranit formulář «"
+				}, 
+				"social_login": "Přihlásit se je možno přes následující služby"
+			}
+		}
+	}
+}

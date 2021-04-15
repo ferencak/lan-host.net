@@ -1,0 +1,38 @@
+{
+	"send": {
+		"page_name": "'Přeposlat kredity'"
+	},
+	"overview": {
+		"page_name": "'Přehled transakcí'"
+	},
+	"purchase": {
+		"page_name": "'Zakoupení kreditu'"
+	},
+	"log": "Zasláno <strong>%1</strong> kreditů uživateli '<strong>%2</strong>'",
+	"controller": {
+		"email_not_found": "Tato emailová adresa nebyla nalezena.",
+		"credit_sent": "Kredity byly úspešně odeslány.",
+		"email_wrong_format": "Vypsaný e-mail je ve špatném formátu!",
+		"not_enough_credits": "Nemáte dostatek kreditů pro tuto akci!",
+		"fields_wrong_format": "Políčka nebyla vyplněna podle správného formátu!"
+	},
+	"panel": {
+		"rows_count": "Posledních",
+		"tables": {
+			"execute_date": "Datum vykonání",
+			"execute_action": "Vykonaná akce"
+		}
+	},
+	"transactions": {
+		"actions": {
+			"order_service": "Objednávka služby",
+			"get_credits": "Obdržení kreditů od uživatele",
+			"give_credits": "Odeslání kreditů uživateli",
+			"order_credits": "Zakoupení kreditů"
+		},
+		"show_all": "Zobrazit všechny transakce",
+		"show_last_five": "Zobrazit poslední transakce",
+		"last_five": "(Posledních 5)",
+		"last_seven_days": "(Posledních 7. dnů)"
+	}
+}

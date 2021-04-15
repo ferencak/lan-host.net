@@ -1,0 +1,19 @@
+{
+	"page_name": "'Záznamy účtu'",
+	"all_records_removed": "Odstranění všech záznamů.",
+	"panel": {
+		"account_logs": "Záznamy účtu",
+		"rows_count": "Posledních",
+
+		"buttons": {
+			"show_all": "zobrazit vše",
+			"show_last_ten": "zobrazit posledních 10",
+			"delete_records": "SMAZAT ZÁZNAMY"
+		},
+
+		"tables": {
+			"execute_date": "Datum vykonání",
+			"execute_action": "Vykonaná akce"
+		}
+	}
+}

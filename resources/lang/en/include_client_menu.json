@@ -1,0 +1,25 @@
+{
+	"menu": {
+		"link_administration": "Administration section", 
+		"link_index": "Home page", 
+		"services": {
+			"title": "Services",
+			"link_services": "My services", 
+			"link_order_service": "Order service", 
+			"link_invoices": "Invoices"
+		}, 
+		"credits": {
+			"title": "Credits",
+			"link_buy_credits": "Buy credits", 
+			"link_send_credits": "Send credits",
+			"link_overview_credits": "Transactions overview"
+		}, 
+		"link_news": "News", 
+		"records": {
+			"title": "Records",
+			"link_account_records": "Account records", 
+			"link_service_records": "Services records"
+		}, 
+		"link_settings": "Settings"
+	}
+}

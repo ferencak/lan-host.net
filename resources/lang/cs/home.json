@@ -1,0 +1,43 @@
+{
+	"page_name": "'Domov'",
+	"welcome_slider": {
+		"slider_1": {
+			"content": "Vítejte na hostingu %1."
+		}, 
+		"slider_2": {
+			"title": "Proč si vybrat nás?",
+			"content": "Máme dlouhodobé zkušenosti s poskytováním služeb, jsme cenově dostupní, <br/>kvalitní a dokážeme pomoct, kdykoliv je nutno!" 
+		}
+	}, 
+	"why_us": {
+		"container_1": {
+			"title": "Bezpečnost", 
+			"content": "Mít pod kontrolou bezproblémový chod hostingu je důležitý základ. Proto využíváme moderních technologií."
+		}, 
+		"container_2": {
+			"title": "Kvalita a dostupnost", 
+			"content": "Kvalitní produkty a jejich dostupnost je důležitá pro správný chod hostingu. Snažíme se řešit vzniklé problémy a zamezit dalším problémům."
+		}, 
+		"container_3": {
+			"title": "Podpora", 
+			"content": "Vzniklé problémy neschováváme pod koberec a snažíme se je pohotově řešit. Péče o zákazníky, jejich produkty je velmi důležité."
+		}
+	},
+	"about_us": {
+		"title": "O nás",
+		"content": {
+			"tab_1": {
+				"title": "Naše společnost", 
+				"content": "Naše společnost vznikla již v roce 2015, kdy jsme se snanžili prorazit hostováním her. Postupné budování a získávání nových zkušeností nás přivedlo na novou úroveň, kde se z malého hostingu stáváme velkou korporací. "
+			}, 
+			"tab_2": {
+				"title": "Vývoj", 
+				"content": "Postupem času jsme získávali nové zkušenosti, inovovali a snažili se být temi, kteří nezůstanou stát na jednom místě, ale postupují dále."
+			}, 
+			"tab_3": {
+				"title": "Představy", 
+				"content": "Naším cílem je poskytnout Vám ty nejlepší produkty za dostupnou cenu a stát se celorepublikovým až celostvětovým hostingem se spokojenými zákazníky."
+			}
+		}
+	}
+}

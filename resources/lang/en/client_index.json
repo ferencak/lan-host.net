@@ -1,0 +1,31 @@
+{
+	"page_name": "'Home page'",
+	"panel": {
+		"content": {
+			"section_legend": {
+				"title": "A short legend", 
+				"content": {
+					"label_add": "ADD", 
+					"label_remove": "REMOVE", 
+					"label_search": "SEARCH", 
+					"label_info": "INFORMATION", 
+					"label_start": "START", 
+					"label_stop": "STOP", 
+					"label_restart": "RESTART"
+				}
+			}, 
+			"section_info": {
+				"title": "Important warnings", 
+				"content": {
+					"table": {
+						"date": "Date of publishing", 
+						"title": "Title", 
+						"action": "Action"
+					}
+				}, 
+				"stable_version": "Stable version", 
+				"last_revision": "Last revision"
+			}
+		}
+	}
+}

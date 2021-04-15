@@ -1,0 +1,25 @@
+{
+	"menu": {
+		"link_administration": "Administrativní sekce", 
+		"link_index": "Hlavní stránka", 
+		"services": {
+			"title": "Služby",
+			"link_services": "Mé služby", 
+			"link_order_service": "Objednat službu", 
+			"link_invoices": "Faktury"
+		}, 
+		"credits": {
+			"title": "Kredity",
+			"link_buy_credits": "Zakoupit kredity", 
+			"link_send_credits": "Přeposlat kredity",
+			"link_overview_credits": "Přehled transakcí"
+		}, 
+		"link_news": "Novinky", 
+		"records": {
+			"title": "Záznamy",
+			"link_account_records": "Záznamy účtu", 
+			"link_service_records": "Záznamy služeb"
+		}, 
+		"link_settings": "Nastavení"
+	}
+}

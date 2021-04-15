@@ -1,0 +1,89 @@
+{
+	"panel": {
+		"title": "Vytvořte si Váš nový účet",
+		"content": {
+			"form": {
+				"client_firstname": {
+					"title": "* Křestní jméno", 
+					"placeholder": "Zadejte křestní jméno..." 
+				}, 
+				"client_lastname": {
+					"title": "* Příjmení", 
+					"placeholder": "Zadejte příjmení..." 
+				}, 
+				"client_password": {
+					"title": "* Heslo", 
+					"placeholder": "Zadejte heslo Vašeho účtu..." 
+				}, 
+				"client_password_check": {
+					"title": "* Heslo (kontrola)", 
+					"placeholder": "Zadejte Vaše heslo pro kontrolu..." 
+				}, 
+				"client_email": {
+					"title": "* Emailová adresa", 
+					"placeholder": "Zadejte emailovou adresu..."
+				}, 
+				"client_phone": {
+					"title": "Telefonní číslo", 
+					"placeholder": "Zadejte Vaše stávající telefonní číslo"
+				}, 
+				"client_state": {
+					"title": "* Trvalé bydliště", 
+					"optgroup_1": "Vyhodnoceno", 
+					"optgroup_2": "Nejčastější", 
+					"optgroup_3": "Všechny"
+				},
+				"client_city": {
+					"title": "* Město / Obec, ulice a číslo popisné", 
+					"placeholder": "Zadejte název města/obce, ulice a č.p. Vašeho pobytu..." 
+				},
+				"client_zip": {
+					"title": "* PSČ", 
+					"placeholder": "Zadejte PSČ..." 
+				},
+				"client_type": {
+					"title": "Typ osoby", 
+					"option_1": "Fyzická osoba", 
+					"option_2": "Právnická osoba"
+				},
+				"client_captcha": {
+					"title": "* Captcha", 
+					"placeholder": "Zadejte captcha kód..."
+				},
+				"tos_accept": {
+					"title": "Touto registrací souhlasíte se",
+					"link_vop": "Všeobecnými obchodními podmínkámi"
+				},
+				"button_submit": "Vytvořit účet"
+			},
+			"footer": {
+				"link_login": "Přejít k přihlášení", 
+				"wrong_form": {
+					"title": "Formulář byl chybný a uložen pro opravu.", 
+					"link_destroy": "» Odstranit formulář «"
+				}
+			}
+		}
+	}, 
+	"error": {
+		"registration_disabled": {
+			"title": "Nastala chyba",
+			"content": "Registrace je momentálně vypnuta. Prosíme, zkuste to příště."
+		}, 
+		"unfilled": {
+			"content": {
+				"single": "Toto pole: %1 není vyplněné!", 
+				"multiple": "Tyto pole: %1 nejsou vyplněné!"
+			}
+		}, 
+		"wrong": {
+			"email_already_used": "Emailová adresa je již využita jiným uživatelem!", 
+			"invalid_state": "Vybraný stát není možno akceptovat.", 
+			"unaccepted_tos": "Touto registrací musíte souhlasit s VOP.", 
+			"bad_captcha": "Zadaný captcha kód je neplatný.", 
+			"invalid_zip": "Zadané PSČ je neplatné.", 
+			"invalid_passwords": "Zadaná hesla, které jste zadali, nejsou shodná.",
+			"invalid_email": "Emailová adresa, kterou jste zdali, je neplatná."
+		}
+	}
+}

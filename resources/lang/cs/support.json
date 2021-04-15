@@ -1,0 +1,83 @@
+{
+  "app_name": "",
+  "new_ticket": "Vytvořit tiket",
+  "log": "Přechod na stránku 'Podpora'.",
+  "tables": {
+    "id": "ID",
+    "ticket_name": "Název tiketu",
+    "last_reply": "Poslední odpověd",
+    "status": "Stav",
+    "actions": "Možnosti"
+  },
+  "menu": {
+    "link_homepage": "Domovská stránka",
+    "link_products": {
+      "title": "Produkty",
+      "error_empty_services": ".. služby nenalezeny ..",
+      "products_dropdown": {
+        "products_game": "Herní služby",
+        "products_voice": "Komunikativní služby",
+        "products_other": "Ostatní služby"
+      }
+    }
+  },
+  "support_create": {
+    "page_name": "'Vytvoření ticketu'",
+    "support": "Podpora",
+    "ticket_name_too_long": "Název ticketu musí být kratší než 60 znaků.",
+    "ticket_name": "* Název tiketu",
+    "ticket_name_placeholder": "Zadejte název ticketu...",
+    "ticket_issue": "* Typ problému",
+    "ticket_description": "* Stručný popis problému",
+    "ticket_description_placeholder": "Stručně popište Váš problém...",
+    "create_ticket": "Vytvořit ticket",
+    "nothing": "Žádný",
+    "user_support": {
+      "job_request": "Žádost o pozici",
+      "account_activation": "Aktivace účtu",
+      "web_not_loading_properly": "Web se nenačítá správně",
+      "cannot_change_user_details": "Nelze změnit údaje",
+      "cannot_buy_credits": "Nelze zakoupit kredit",
+      "cannot_buy_service": "Nelze zakoupit server",
+      "sending_credits": "Přeposlání kreditů",
+      "service_refund": "Reklamace služby",
+      "other_issue": "Jiný problém"
+    },
+    "technical_support": {
+      "service_backup": "Záloha serveru",
+      "service_failed_at_creating": "Služba se nevytvořila správně",
+      "service_not_working": "Služba nefunguje",
+      "service_not_extending": "Službu nelze prodloužit",
+      "connectivity_issue": "Problém s konektivitou",
+      "setting_up_shared_control": "Nastavení sdíleného ovládání",
+      "forgotten_account_details": "Zapomenuté údaje",
+      "bug_report": "Nahlášení bugu",
+      "other_issue": "Jiný problém"
+    }
+  },
+
+  "support_controller": {
+    "owner_does_not_own_that_server": "Vybraný server nepatří Vám.",
+    "these_rows":  "Tyto políčka",
+    "are_not_filled": "nejsou vyplněná",
+    "this_row": "Toto políčko",
+    "is_not_filled": "není vyplněné",
+    "ticket_created": "Ticket byl vytvořen. Budeme se snažiť tento problém vyřešit co nejdříve.",
+    "ticket_issue": "typ problému",
+    "ticket_name": "název ticketu",
+    "ticket_description": "popis problému",
+    "you": "Vy",
+    "support": "Podpora",
+    "opened": "Otevřen",
+    "closed": "Uzavřen",
+    "resolved": "Vyřešen",
+    "resolving": "V řešení",
+    "waiting_for_user": "Čeká se na odpověď zákazníka",
+    "waiting_for_you": "Čeká se na Vaší odpověď",
+    "waiting_for_support": "Čeká se na odpověď podpory",
+    "ticket_reply_sent": "Odpověď byla přidáná. Budeme se snažiť tento problém vyřešit co nejdříve.",
+    "status_updated": "Stav byl aktualizován."
+
+  }
+
+}

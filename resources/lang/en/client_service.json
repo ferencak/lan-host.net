@@ -1,0 +1,59 @@
+{
+	"order": {
+		"page_name": "'Objednat službu'",
+		"title1": "Výběr služby",
+		"title2": "Základní nastavení",
+		"service_created": "Služba byla vytvořena, brzy budete přesměrován k zaplacení.",
+		"service_create_fail": "Službu není možno vytvořit z důvodu ",
+		"step1": {
+			"game_service": "Herní služby",
+			"communication_service": "Komunikativní služby",
+			"other_service": "Ostatní služby"
+			
+		},
+		"Minecraft": {
+			"step2": {
+				"custom_package_info": "<strong>Upozornění!</strong> Je aktivní <b>VLASTNÍ</b> balíček. Služba je o 10% dražší!",
+				"month": "měsíc",
+				"settings_and_parameters": "Parametry služby a nastavení",
+				"memory": "Fyzická pamět (RAM)",
+				"ssd_space": "Velikost prostoru (SSD)",
+				"service_name": "Název služby",
+				"service_name_placeholder": "Zadejte pojmenování této služby...",
+				"slots_count": "Počet slotů",
+				"slots_placeholder": "Zadejte počet slotů služby...",
+				"java_version": "Java verze",
+				"recommended": "Doporučeno",
+				"service_version": "Verze serveru",
+				"preinstall_service": "Předinstalovat základní rozšíření. ",
+				"addon_list": "Seznam rozšíření",
+				"back": "ZPĚT",
+				"beginner": "ZAČÁTEČNÍK",
+				"advanced": "POKROČÍLÝ",
+				"expert": "EXPERT",
+				"custom": "VLASTNÍ",
+				"order_service": "Objednat službu",
+				"last_version": "Poslední verze"
+			}
+		}
+	},
+
+	"services": {
+		"page_name": "'Mé služby'",
+		"show_simple_list": "zobrazit jednoduchý seznam",
+		"show_detailed_list": "zobrazit detailní seznam",
+		"order_service": "objednat službu",
+		"table": {
+			"expiration_date": "Expiruje za %exp dnů",
+			"control_service": "Ovládat službu ",
+			"no_service_owned": "nejste vlastníkem žádné služby :(",
+			"type": "typ",
+			"name": "název",
+			"expiration": "expirace",
+			"ip_address": "ip adresa",
+			"control": "ovládání",
+			"next": "DALŠÍ",
+			"back": "ZPĚT"
+		}
+	}
+}
